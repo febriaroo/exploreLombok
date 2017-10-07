@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">ExploreLombok</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="openingNotes">Lombok – an island east of Bali, but less famous than its neighbor.\nWhile every year millions of tourists are attracted to Bali, many places on Lombok are still untouched. Over here mass tourism is still unknown.\n
+Lombok offers many empty and often isolated dream beaches, friendly and interesting people, tasty food and fantastic nature.\nThis year, after a stay of more than two months, Lombok and the Gili islands became my personal favorites – at least so far.</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="beach">Beach</string>
+    <string name="Nature">Nature</string>
+    <string name="hungry">I\'m hungry</string>
+    <string name="whatsup">What\'s up</string>
+    <string name="whatsupSasak">Jekem kembe?</string>
+    <string name="howAreYou">How are you?</string>
+    <string name="howAreYouSasak">Berembe Kabarm?</string>
+    <string name="niceToMeetYou">Nice to meet you</string>
+    <string name="niceToMeetYouSasak">Senengk bedait kance side</string>
+    <string name="whereAreYouGoing">Where are you going?</string>
+    <string name="whereAreYouGoingSasak">Mbe yakm laik?</string>
+    <string name="learnMoreLocal">Learn more about what local says!</string>
+    <string name="plecingTitle">Plecing Kangkung</string>
+    <string name="ayamTaliwangTitle">Ayam taliwang</string>
+    <string name="sateBulayakTitle">Sate Bulayak</string>
+    <string name="bauNyaleTitle">Bau Nyale</string>
+    <string name="gendangBeleqTitle">Gendang Beleq</string>
+    <string name="preseanTitle">Presean</string>
+    <string name="plecingDesc">Plecing kangkung is a spicy water spinach dish made from Lombok island, Indonesia. Plecing kangkung made from blanched kangkung leaf served cold with plecing sambal, made from ground red chili pepper.</string>
+    <string name="ayamTaliwangDesc">Ayam Taliwang is a spicy Indonesian ayam bakar dish from Lombok.</string>
+    <string name="sateBulayakDesc">Sate Bulayak is a typical satay from Lombok Island, West Nusa Tenggara, which is made from spiced beef typical Lombok and served with lontong (bulayak). Seasoning sate is made from roasted ground roasted peanuts together with coconut milk and some other spices so that it feels like a curry spice.</string>
+    <string name="bauNyaleDesc">Bau Nyale is a legendary and sacred event for Sasaknese. Once upon a time, this tradition was started by the story of a beautiful Princess named Purti Mandalika. Her beauty makes the kings from across region are scrambling to ask for her hand. But it became complicated for her if she rejects their application, then it will trigger the war. That was a big dilemma for her. But then the princess took a strange decision on the 20th of October, to kill herself. Exactly, she threw herself into the open sea. After commited suicide, a lot of nyale (sea worm) appeared at sea. Until now, the appearance of nyale believed as the incarnation of Princess Mandalika. The word ‘Bau Nyale’ comes from sasak language. Where “Bau” means catch and “nyale” means marine’s worm. So, according to the name, this is a worm-catching activity on the beaches.</string>
+    <string name="gendangBeleqDesc">Named Gendang Beleq, as one of the instruments is in the form of a big drum. The name consists of two words, Gendang and Beleq. The word “Gendang” means drum and Beleq means big. In its performance, this orchestra consists of two Gendang beleq, the Gendang ‘mama’ (Male Drum) and and Gendang ‘nina’ (Femane Drum). Both bring the dynamics during its performance. These traditional music instruments are played in a group followed by another instruments.</string>
+    <string name="preseanDesc">If you search for the word of “presean” in the Google, then you will get a bunch of awesome photos of two men fighting with sticks and shield. This kind of martial art is very popular and got alot of attention. Once upon a time, Presean was typically organized as a means of rain calling, but now it has become a traditional games organized in the form of a competition held in a rural until the district levels. This martial art uses Penjalin (Stick) made from rattan as a weapon and Ende (shield) that is made from cowhide. Players are called Pepadu, where they consist of two teens / adults fighting and using their skills. The victory is declared valid until one of Pepadu dripping his blood.</string>
+
+
+    <string name="que1">What is the capital city of Lombok?</string>
+    <string name="ans1_a">Mataram</string>
+    <string name="ans1_b">Denpasar</string>
+    <string name="ans1_c">Gili Trawangan</string>
+    <string name="ans1_d">Senggigi</string>
+
+
+    <string name="que2">What is Lombok\'s traditional transportation?</string>
+    <string name="ans2_a">Car</string>
+    <string name="ans2_b">Motorcycle</string>
+    <string name="ans2_c">Speed boat</string>
+    <string name="ans2_d">Cidomo</string>
+
+    <string name="que3">What is the name of Lombok\'s Airport?</string>
+    <string name="ans3_a">Mataram Airport</string>
+    <string name="ans3_b">Lombok Internasional Airport</string>
+    <string name="ans3_c">Lombok Airport</string>
+    <string name="ans3_d">Mataram International Airport</string>
+
+    <string name="que4">Which one is the area code of Lombok?</string>
+    <string name="ans4_a">0370</string>
+    <string name="ans4_b">0372</string>
+    <string name="ans4_c">0361</string>
+    <string name="ans4_d">021</string>
+
+    <string name="benangKelambuTitle">Benang Kelambu Waterfall</string>
+    <string name="danauSegaraAnakTitle">Segara Anak Lake</string>
+    <string name="gunungRinjaniTitle">Mount Rinjani</string>
+    <string name="pantaiMawunTitle">Mawun Beach</string>
+    <string name="pinkBeachTitle">Pink Beach</string>
+    <string name="pusukTitle">Pusuk Forest</string>
+    <string name="selongBelanakTitle">Selong Belanak Beach</string>
+    <string name="senggigiBeachTitle">Senggigi Beach</string>
+    <string name="setangiBeachTitle">Setangi Beach</string>
+    <string name="tanjungAanBeachTitle">Tanjung Aan</string>
+
+
+    <string name="benangKelambuDesc">Lombok got numerous waterfalls, mostly in the northern part of the island. Among others, there would be Tiu Teja, Tiu Kelep or Sendang Gile. In the center of Lombok you will find a few decent ones as well, for example the Benang Kelambu, Benang Stokel or Jeruk Manis near Tetebatu.
+
+There is no fresher water than this! Drink it, swim or just let the ice cold water hail down your back – superb!</string>
+    <string name="danauSegaraAnakDesc">Segara Anak is a crater lake contained within Mount Rinjani on the island of Lombok in Indonesia. The name Segara Anak means child of the sea given to the blue colour of the lake reminiscent of the sea. </string>
+    <string name="gunungRinjaniDesc">The second highest volcano of Indonesia is definitely one of THE highlights of Lombok! You can book multi-day, guided tours to the Crater Lake and even to the top at all touristy spots. The pictures speak for themselves…</string>
+    <string name="pantaiMawunDesc">Depending on the weekday and the time of the day, this beach with its soft white sand and turquoise water is still mostly deserted. Sometimes the waves are heavier over here. The beach is secluded and located west of Kuta in an almost enclosed bay, which you can easily reach with your scooter as well.</string>
+    <string name="pinkBeachDesc">It’s not really an insiders’ tip anymore, but still worth a visit! The drive is quite difficult since in my opinion the streets on the Ekas Peninsula (where the Pink Beach is located) cannot be called streets anymore. At least they are being improved bit by bit every year. If you actually make it there, you will be rewarded with a desolate quiet beach. It is called after its pink sand that consists out of coral.
+
+The view from the near viewpoint is marvelous as well and the also worth seeing cliffs of Tanjung Ringgit are situated close by.</string>
+    <string name="pusukDesc">Taking a winding road through a breathtaking mountain landscape is the second option to get to Bangsal. It’s were you find the so-called monkey forest, named after the numerous wild monkeys in the jungle and near the street. Feed the hungry and annoying little bastards at the view points if you like.
+
+But be careful and look for your bags, backpacks and such. You can go there by scooter as well, but always “Hati Hati”, like the Indonesian says.</string>
+    <string name="selongBelanakDesc">I believe I rarely saw such a wide and shallow beach like Selong Belanak somewhere else. You can perfectly surf or swim at this long beach.
+
+I strongly recommend taking a look at the near viewpoint overlooking the beach and the bay. It’s located a bit north of Selong Belanak Beach. It’s still an insiders’ tip and you shouldn’t miss it when you do a scooter tour.</string>
+    <string name="senggigiBeachDesc">Most tourists arrive in Senggigi because many hotels are located over here. It’s also great for going out at night or eating. One of the most popular surf spots for locals and tourists alike is Senggigi Beach.
+
+At this beach the vendors and locals aren’t pushy at all but you can have a nice small talk if you like (mainly about football since Indonesians love football).</string>
+    <string name="setangiBeachDesc">Setangi is a beautiful beach with palms on the island of Lombok in Indonesia. The sand is black mixed with the white sand. As the waves are strong most of time, the coast is more suitable for surfing, and not so good for swimming. The place is wild, so there are usually just a few people. Shore and seabed: sand. </string>
+    <string name="tanjungAanBeachDesc">Turquoise sea and white sand, the way I love it! Even here you can climb a rock to enjoy a breathtaking view over the two bays and beaches of Aan. A must-see!</string>
+
+
+</resources>
